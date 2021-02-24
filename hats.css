@@ -1,0 +1,24 @@
+h1{
+   text-shadow: 4px 4px 4px goldenrod;
+}
+a, .carousel-caption{
+   color: goldenrod;
+}
+
+h3{
+   border-bottom: 1px solid goldenrod;
+   text-align: center;
+   padding-top: 80px;
+   padding-bottom:10px ;
+   text-shadow: 4px 4px 4px goldenrod;
+}
+.col{
+
+   margin-bottom: 20px;
+   text-align: center;
+}
+
+footer{
+   background-color: rgb(245, 208, 114);
+   margin-top: 80px;
+}

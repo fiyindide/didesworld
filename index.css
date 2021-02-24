@@ -1,0 +1,45 @@
+#italics{
+   text-shadow: 4px 4px 4px goldenrod;
+   font-style: italic;
+   font-family: 'Courier New', Courier, monospace;
+}
+h1{
+   font-family: 'Courier New', Courier, monospace;
+   text-align: center;
+}
+.carousel-caption{
+   color: goldenrod;
+   
+}
+a:hover{
+   color: goldenrod;
+}
+
+h3{
+   border-bottom: 1px solid goldenrod;
+   text-align: center;
+   padding-top: 20px;
+   padding-bottom:10px ;
+   text-shadow: 4px 4px 4px goldenrod;
+}
+.col-sm-4{
+   margin-bottom:20px ;
+   text-align: center;
+}
+
+.carousel-item{
+text-align: center;
+}
+#hat_name{
+   text-align: center;
+   font-size: larger;
+}
+
+#price{
+   text-align: center;
+}
+
+#pure-suplements{
+   position: relative;
+   width: 100%;
+}
